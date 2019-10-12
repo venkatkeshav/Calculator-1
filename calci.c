@@ -14,7 +14,7 @@ int main()
     if(c==4)
     {  if(b!=0)
         printf("Quotient is:%d",a/b);
-     else 
+     else
          printf("division is not possible as b=0");
                 }
     return 0;
